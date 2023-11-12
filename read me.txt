@@ -1,0 +1,4 @@
+This is a game about predict a number which is between 0 and 20. 
+you have 5 chance for make the prediction.
+good luck and enjoy it 
+Metin KOCA
